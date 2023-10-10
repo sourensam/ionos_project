@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "729dee85fa1134df",
+        "id": "8a419abfea046f01",
         "type": "tabs",
         "children": [
           {
-            "id": "016fed917145ba34",
+            "id": "017560dd72073bd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting up a Kubernetes cluster.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9adfe54078880f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting up a Monitoring Stack on top of K8s.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting up a Monitoring Stack on top of K8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting up a Monitoring Stack on top of K8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Setting up a Monitoring Stack on top of K8s.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,18 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9adfe54078880f20",
+  "active": "017560dd72073bd3",
   "lastOpenFiles": [
+    "installing_golang.md",
+    "installing_helm.md",
+    "Installing_ionosctl.md",
+    "installing_kubectl.md",
+    "Installing_Terraform.md",
     "Setting up a Kubernetes cluster.md",
     "Setting up a Monitoring Stack on top of K8s.md",
-    "installing_helm.md",
+    "README.md",
+    "pics/prob.png",
+    "pics/imprt_dsh.png",
+    "pics/grfn_dtsrc.png",
+    "pics/grfn.png",
     "pics/stckdgrm.png",
     "test.md",
-    "README.md",
-    "Installing_Terraform.md",
-    "installing_kubectl.md",
-    "Installing_ionosctl.md",
-    "installing_golang.md",
     "pics/Kluster_up.png",
     "procedure",
     "pics/desc.md",
