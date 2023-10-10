@@ -1,5 +1,5 @@
 # Setting up a Monitoring Stack on top of K8s
-----
+
 
 ## Deployment Overview
 
