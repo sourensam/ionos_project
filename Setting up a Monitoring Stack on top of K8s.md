@@ -8,7 +8,7 @@ Within this documentation, our objective is to deploy a comprehensive monitoring
 
 ![dggrm](./pics/stckdgrm.png)
 
-------
+
 ### Prerequisites 
 
 Before proceeding with this deployment, it is imperative to meet the following requirements:
@@ -17,7 +17,7 @@ Before proceeding with this deployment, it is imperative to meet the following r
 - Access to the Kubernetes cluster through the use of `kubectl`.
 - Installation of the [Helm](./installing_helm) package.
 
----
+
 
 ### Monitoring stack deployment
 
