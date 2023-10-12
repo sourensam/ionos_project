@@ -11,9 +11,9 @@ Before you begin, ensure you have the following prerequisites in place:
 - Basic familiarity with Kubernetes, Prometheus, Grafana, and Terraform and Helm
 - A terminal with these packages installed.
 	- [Golang](https://github.com/sourensam/ionos_project/blob/main/installing_golang.md)
-	- [Terraform](./Installing_Terraform)
-	- [kubectl](./installing_kubectl)
-	- [inonsctl](./Installing_ionosctl)
+	- [Terraform]([./Installing_Terraform](https://github.com/sourensam/ionos_project/blob/main/Installing_Terraform.md))
+	- [kubectl](https://github.com/sourensam/ionos_project/blob/main/installing_kubectl.md)
+	- [inonsctl](https://github.com/sourensam/ionos_project/blob/main/Installing_ionosctl.md)
 
 ---
 
