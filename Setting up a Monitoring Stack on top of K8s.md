@@ -15,7 +15,7 @@ Before proceeding with this deployment, it is imperative to meet the following r
 
 - An operational Kubernetes cluster.
 - Access to the Kubernetes cluster through the use of `kubectl`.
-- Installation of the [Helm](./installing_helm) package.
+- Installation of the [Helm](https://github.com/sourensam/ionos_project/blob/main/installing_helm.md) package.
 
 
 
