@@ -208,7 +208,7 @@ or alternatively you can use this command:
 ionosctl login --user <user_name> --password <password> -v
 ```
 
-**kubectl:
+**kubectl:**
 
 To establish communication with the Kubernetes cluster, it is essential to include the cluster configuration file on your local system. We achieve this by utilizing the `ionosctl` command as follows:
 
