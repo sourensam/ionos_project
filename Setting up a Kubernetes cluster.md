@@ -195,7 +195,7 @@ In our setup, we utilize two essential client tools, namely `ionosctl` and `kube
 
 **ionosctl**: 
 
-After successfully installing the [ionosctl](https://chat.openai.com/c/Installing_ionosctl) command, it's important to ensure that you have configured the necessary environment variables. These variables are crucial as they contain your credential information, which is used for authorization.
+After successfully installing the [ionosctl](https://github.com/sourensam/ionos_project/blob/main/Installing_ionosctl.md) command, it's important to ensure that you have configured the necessary environment variables. These variables are crucial as they contain your credential information, which is used for authorization.
 
 ```bash
 export IONOS_USERNAME="User@domain.com"
