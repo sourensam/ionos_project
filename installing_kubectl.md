@@ -1,3 +1,5 @@
+# Installing Kubectl
+
 To facilitate remote interaction with a Kubernetes cluster from our local machine, it's imperative to deploy the `kubectl` command line utility. The following instructions outline the specific steps for installing this essential utility.
 
 Update the `apt` package index and install prerequisites to use the Kubernetes `apt` repository:
