@@ -185,7 +185,9 @@ The process of deploying the infrastructure takes some time to complete. Once yo
 
 Additionally, you may find it beneficial to log in to [dcd.ionos.com](https://dcd.ionos.com/) to view a diagram depicting the applied configurations. 
 
+
 ![kluster_up](https://github.com/sourensam/ionos_project/blob/main/pics/Kluster_up.png) 
+
 
 ##### Client Tools Configuration
 
