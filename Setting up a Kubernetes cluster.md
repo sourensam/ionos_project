@@ -10,7 +10,7 @@ Before you begin, ensure you have the following prerequisites in place:
 - An IONOS Cloud account with access to create resources.
 - Basic familiarity with Kubernetes, Prometheus, Grafana, and Terraform and Helm
 - A terminal with these packages installed.
-	- [Golang](./installing_golang)
+	- [Golang](https://github.com/sourensam/ionos_project/blob/main/installing_golang.md)
 	- [Terraform](./Installing_Terraform)
 	- [kubectl](./installing_kubectl)
 	- [inonsctl](./Installing_ionosctl)
