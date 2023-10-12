@@ -1,3 +1,5 @@
+# Installing ionosctl
+
 You can install ionosctl using snap package manager:
 
 ```bash
