@@ -66,7 +66,7 @@ terraform init
 
 By applying this Terraform configuration, you will create a Kubernetes cluster within an IONOS Cloud Virtual Datacenter, adhering to the following specifications:
 
-* The Datacenter Zone: "de/fra"
+- The Datacenter Zone: "de/fra"
 - A Virtual Datacenter Named "Frankfort Datacenter"
 - A Local Area Network named "net0-frankfortDC"
 - Provisioning of four IPv4 public addresses
