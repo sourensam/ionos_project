@@ -91,7 +91,7 @@ provider "ionoscloud" {
   endpoint = "api.ionos.com"
 }
 
-## Define a resource block for creating an Ionos Cloud datacenter.
+## Define a resource block for creating an Virtuak Cloud datacenter.
 resource "ionoscloud_datacenter" "FrankfortDC" {
   name              = "Frankfort Datacenter"
   location          = "de/fra"
