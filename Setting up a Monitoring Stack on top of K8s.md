@@ -611,8 +611,7 @@ But change some part of this file as follows:
 ```yaml
 service:  
  enabled: true  
- type: LoadBalancer   # we want the grafana web interface to be publicl
-					  # accessible
+ type: LoadBalancer   # we want the grafana web interface to be publicly accessible
  port: 80  
  targetPort: 3000
 ```
@@ -634,8 +633,7 @@ datasources:
     datasources:
     - name: Prometheus
       type: prometheus
-      url: http://10.233.58.158:8082 # the port "8082" is the of the service
-								     # "prometheus-service-internal"
+      url: http://10.233.58.158:8082 # the port "8082" is the of the service "prometheus-service-internal"
       access: proxy
       isDefault: true
 ```
